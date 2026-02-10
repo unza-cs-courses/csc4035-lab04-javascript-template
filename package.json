@@ -1,0 +1,15 @@
+{
+  "name": "csc4035-lab04-javascript",
+  "version": "1.0.0",
+  "description": "Lab 4: JavaScript Fundamentals - CSC4035 Web Programming",
+  "main": "exercises.js",
+  "scripts": {
+    "test": "node tests/visible/tests.js"
+  },
+  "keywords": [
+    "javascript",
+    "fundamentals",
+    "csc4035"
+  ],
+  "license": "MIT"
+}
