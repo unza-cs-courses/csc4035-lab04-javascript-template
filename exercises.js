@@ -5,7 +5,7 @@
  * Complete all the functions below following the JSDoc comments.
  * Run tests with: npm test
  *
- * Check ASSIGNMENT.md for your personalized variant parameters.
+ * Complete all exercises following the instructions in README.md.
  */
 
 // ============================================
