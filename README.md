@@ -117,7 +117,7 @@ Additional tests run after the deadline covering:
 1. Complete all functions in `exercises.js`
 2. Ensure `npm test` passes
 3. Commit and push your changes
-4. Check the Actions tab for test results
+4. Verify all tests pass locally before pushing
 
 ```bash
 git add .
